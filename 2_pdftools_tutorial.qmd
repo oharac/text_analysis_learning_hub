@@ -113,6 +113,6 @@ table1_tidy_df <- table1_df %>%
 DT::datatable(table1_tidy_df)
 ```
 
-With pdftools, we extracted a data table, but we could also just extract the text itself if that's what we really wanted.  
+With pdftools, we extracted a data table, but we could also just extract the text itself if that's what we really wanted...  
 
 ## See also: https://github.com/ropensci/tabulizer
